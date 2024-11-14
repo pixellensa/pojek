@@ -161,7 +161,7 @@ sections:
           name: phone
           label: Phone No
           hideLabel: false
-          placeholder: Your name
+          placeholder: Phone no
           width: full
           isRequired: false
         - name: email
