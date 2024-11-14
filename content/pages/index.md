@@ -159,7 +159,7 @@ sections:
           type: TextFormControl
         - type: TextFormControl
           name: phone
-          label: Name
+          label: Phone No
           hideLabel: false
           placeholder: Your name
           width: full
