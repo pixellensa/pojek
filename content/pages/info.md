@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         actions:
           - type: Link
-            label: LinkedIn
+            label: ''
             url: ''
         styles:
           self:
