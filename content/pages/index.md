@@ -168,15 +168,8 @@ sections:
           hideLabel: true
           placeholder: Email
           isRequired: true
-          width: 1/2
+          width: full
           type: EmailFormControl
-        - name: address
-          label: Address
-          hideLabel: true
-          placeholder: Address
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
         - name: updatesConsent
           label: Sign me up to recieve updates
           isRequired: false
